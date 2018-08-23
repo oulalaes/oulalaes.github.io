@@ -1,6 +1,6 @@
 /**
  * 
- * @version v1.0.0 - 2018-08-22
+ * @version v1.0.0 - 2018-08-23
  * @link wwww.oulala.es
  * @author 
  This is proprietary software and not allowed for distribution or use without explicit consent.
